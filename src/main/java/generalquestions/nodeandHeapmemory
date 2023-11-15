@@ -1,0 +1,11 @@
+hashmap and arraylist are using arrays in backgorund thats why data retriaval is fast and arrays in heap memry creates and specifci
+spot with a defined storage area such as an array with size 10 //a storage with that size will be allocated to array
+
+
+
+
+now tree map and linked hashmap and linked list are using  node storage in background means once the map or list is creade
+in the heap memory the date will be stored as nodes meaninnf every node will be located  scattered in differnent parts of heap memory
+and one node has the addrss of its previous and next node ..thorefore if we give an index like give me the value of the index 5
+in the map //it will not be able to give us the index value directly , it has start searching from index 0 to reach to that desired
+index

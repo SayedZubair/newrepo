@@ -1,0 +1,25 @@
+Heap-->all the reference data type and objects are stored in heap memory but their variable names are in storedd in
+stack memory
+
+Any object or refreence data type which is in heap memory does have a pointer or an address//if we assign a big size array
+to a smaller size, it can be done, this way we assign the new size address to the new variable
+and if the primitive data type is in call level out of the method //that means when we make an object of the clss and the
+objects always are in heap memory
+
+
+stack:---->the method it self is not in any of the mentioned memory types but when a method is called
+be in stack memory with all its features if it got array, list int and string.. all the variables  names in the method will
+be in stack memory too
+
+
+stack and heap memory
+when method gets called  with all the its components including vairbables ..loops what ever with be in stack memory
+if the variable is primitive all will be in stack memry inside
+ outside of the method it will be part of the object //when ever object is created that object will be in the heap memory
+ objects value are in heap and the name of the object will be in stack no matter the object is inside and outside the object
+
+
+
+
+
+but the reference data
