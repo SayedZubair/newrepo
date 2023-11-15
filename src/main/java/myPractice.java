@@ -9,7 +9,6 @@ public class myPractice {
 
         int arr[]=new int[num];
         arr[0]=1;
-        System.out.println("print");
         arr[1]=2;
         for(int i=2;i<arr.length;i++){
 
